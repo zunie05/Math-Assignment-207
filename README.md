@@ -1,6 +1,6 @@
 # Math-Assignment-207
 
-Skew Symmetric Matrix Checker (C++)
+## Skew Symmetric Matrix Checker (C++)
 
 This program checks whether a given square matrix is skew symmetric.
 A matrix A is skew symmetric if:
@@ -32,7 +32,7 @@ a_{ij} = -a_{ji}
 
 
 
-Matrix Symmetry Checker (C++)
+## Matrix Symmetry Checker (C++)
 
 This program checks whether a given square matrix is symmetric.
 A matrix A is symmetric if:
@@ -73,7 +73,7 @@ a_{ij} = a_{ji}
 
 
 
-Matrix Type Identifier & Transpose Generator (C++)
+## Matrix Type Identifier & Transpose Generator (C++)
 
 This C++ program identifies whether a matrix is square or rectangular.
 	•	If it is rectangular, it prints the matrix and its transpose.
@@ -113,7 +113,7 @@ This C++ program identifies whether a matrix is square or rectangular.
 
 
 
-Matrix Addition Program (C++)
+## Matrix Addition Program (C++)
 
 This C++ program performs matrix addition of two matrices.
 It reads the dimensions and elements of two matrices, checks if they are compatible, and then prints:
@@ -167,7 +167,7 @@ n = p
 
 
 
-Matrix Subtraction Program (C++)
+## Matrix Subtraction Program (C++)
 
 This C++ program performs matrix subtraction of two matrices.
 It reads the dimensions and elements of two matrices, verifies if subtraction is valid, and prints:
@@ -211,7 +211,7 @@ m n o p
 
 
 
-Matrix Multiplication Program (C++)
+## Matrix Multiplication Program (C++)
 
 This C++ program performs matrix multiplication of two matrices.
 It checks if multiplication is possible, reads the matrices, displays them, and prints the resulting product matrix.
